@@ -5,3 +5,4 @@ The task was to design a simple profile web page, then host it using App Engine.
 
 Here's the preview:
 
+![alt text](https://github.com/ninalifahs/ProfileApp-Nisrina/blob/main/Preview.PNG?raw=true)
